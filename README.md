@@ -1,9 +1,9 @@
 # Seattle Housing Predictor
 
 ## Project Description
-This project focuses on predicting housing prices in Seattle to address the challenges faced by first-time homebuyers due to rapidly increasing home prices. Using machine learning models, specifically **Linear Regression** and **Random Forest Regression**, the project analyzes various factors including price, bedrooms, bathrooms, location, size, and newly engineered features such as price per square foot and bath-to-bed ratio to enhance predictive accuracy.
+This project aims to predict housing prices in Seattle, helping first-time homebuyers facing rising prices. It uses Linear Regression and Random Forest Regression to analyze factors like price, bedrooms, bathrooms, location, size, and new features like price per square foot and bath-to-bed ratio for better accuracy.
 
-The goal is to provide first-time homebuyers, policymakers, and real estate investors with actionable insights to make informed decisions regarding the Seattle housing market.
+The goal is to provide first-time homebuyers with actionable insights to make informed decisions regarding the Seattle housing market.
 
 ## Dependencies
 This project requires the following dependencies:
