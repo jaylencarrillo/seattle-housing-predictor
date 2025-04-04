@@ -15,7 +15,7 @@ This project requires the following dependencies:
 - Seaborn
 - Jupyter Notebook
 
-All dependencies are listed in `requirements.txt`.
+All dependencies will be listed in `requirements.txt`.
 
 ## Instructions
 
